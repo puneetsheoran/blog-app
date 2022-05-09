@@ -1,0 +1,16 @@
+.about{
+    margin: 3rem;
+}
+.heading{
+    margin: 1rem 0rem 1rem 0rem;
+}
+
+.heading h1{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 50px;
+}
+.content p{
+    margin-bottom: 1.5rem;
+    font-size: 20px;
+    font-family: "Varela Round", sans-serif;
+}
